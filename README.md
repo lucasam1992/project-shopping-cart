@@ -2,6 +2,8 @@
 
 O projeto consiste em um carrinho de compras que consome a API do Mercado Livre. Caso o item adicionado não seja o desejado, será possível remove-lo clicando sobre ele. Segue abaixo, link da página.
 
+https://lucasam1992.github.io/project-shopping-cart/
+
 ## Tecnologias Usadas
 
 - HTML
